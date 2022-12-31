@@ -40,6 +40,13 @@ npm install
 npm start
 
 
+# Once you start the server you will recieve a QR code scan that from whatsapp to login to your whatsapp. Just like you login to a new device.
+
+![image](https://user-images.githubusercontent.com/90630641/210154099-bf316dab-9c49-4965-9d5e-9babbf737e94.png)
+
+
+Once you have logged in. It should display client is ready in the console. It means it was succesfull and has started sending messages.
+
 
 # Enjoy!
 
