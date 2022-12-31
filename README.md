@@ -1,12 +1,12 @@
-## Whatsapp bot to greet Happy New Year 2023.
+# Whatsapp bot to greet Happy New Year 2023.
 
 Idk man didnt go out on new year had too much time thought of making something fun. I know you guys must be tired of manually sending everyone happy new year use this bot instead. Oh also don't forget to start the repo.
 
 C'mon please star it 🥹🥹
 
-## Instructions to use this BOT
+# Instructions to use this BOT
 
-# Instructions to get the JSON File
+## Instructions to get the JSON File
 
 Go to https://contacts.google.com/ 
 
@@ -32,7 +32,7 @@ Save the json file to your rootDir and rename it to jsonData.json as shown below
 ![image](https://user-images.githubusercontent.com/90630641/210153973-256a5e04-5a4f-40d6-b340-968ab28dc95d.png)
 
 
-# Instructions to now run the bot.
+## Instructions to now run the bot.
 
 Open up terminal and run the following command.
 
@@ -40,7 +40,7 @@ npm install
 npm start
 
 
-# Once you start the server you will recieve a QR code scan that from whatsapp to login to your whatsapp. Just like you login to a new device.
+## Once you start the server you will recieve a QR code scan that from whatsapp to login to your whatsapp. Just like you login to a new device.
 
 ![image](https://user-images.githubusercontent.com/90630641/210154099-bf316dab-9c49-4965-9d5e-9babbf737e94.png)
 
@@ -48,7 +48,7 @@ npm start
 Once you have logged in. It should display client is ready in the console. It means it was succesfull and has started sending messages.
 
 
-# Enjoy!
+## Enjoy!
 
-This is how I started my year '23
+This is how I started my year '23 and ended '22.
 
